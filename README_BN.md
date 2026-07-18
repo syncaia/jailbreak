@@ -35,7 +35,7 @@
     * `find . -name 'details.html' -exec cp adbreak.html {} \;`
     * *যদি কাজ না করে:* `find ./.assets -name 'details.html' -exec cp adbreak.html {} \;`
 * **আপডেট ব্লকার (Block Updates Package):** [https://github.com/your-username/kindle-jailbreak/raw/refs/heads/main/mobileread-KUAL/renameotabin.zip](https://github.com/your-username/kindle-jailbreak/raw/refs/heads/main/mobileread-KUAL/renameotabin.zip)
-* **Kindleforge App Store:** [https://github.com/your-username/kindle-jailbreak/releases/tag/v4.0.8](https://github.com/your-username/kindle-jailbreak/releases/tag/v4.0.8)
+* **Kindleforge App Store:** [https://github.com/rokibul/kindle-jailbreak/releases/tag/v4.1.0](https://github.com/rokibul/kindle-jailbreak/releases/tag/v4.1.0)
 
 > আপনি যদি গিটহাবে নতুন হয়ে থাকেন, তবে শুধু kindleforge.zip-এ ক্লিক করুন। ফাইলগুলো ডাউনলোড হলে আপনার কিন্ডলের documents ফোল্ডারে টেনে আনুন (drag & drop)।
 
@@ -172,13 +172,37 @@
 
 
  
-**৩. অন্যান্য অ্যাপস:**
+**৩. HotfixUpdater:**
+এটি একটি সহজ টুল যা পিসি ছাড়াই আপনার ডিভাইসে সরাসরি ইউনিভার্সাল হটফিক্স চেক, ডাউনলোড এবং রান করার প্রক্রিয়াটিকে স্বয়ংক্রিয় করে।
+
+**৪. অন্যান্য অ্যাপস:**
 * **Socks Media Player:** ব্লুটুথ স্পিকারের মাধ্যমে মিউজিক বা অডিওবুক চালান  
 * **KWordle:** Kindle-এ Wordle খেলুন 
 * **Kinki:** একটি শক্তিশালী ফ্ল্যাশকার্ড অ্যাপ, যা ভাষা শেখার জন্য দুর্দান্ত  
 * **Gambit (K2):** গেম বয় (Game Boy) এবং গেম বয় কালার এমুলেটর। এটি এখন আগের চেয়ে অনেক ভালো চলে এবং সাউন্ড সাপোর্ট করে  
 * **Full Screen Web Browser:** আপনার Kindle-কে একটি স্মার্ট হোম কন্ট্রোলার (যেমন Home Assistant) হিসেবে ব্যবহার করুন 
 * **Linux:** আপনি চাইলে সম্পূর্ণ লিনাক্স ডেক্সটপও চালাতে পারবেন  
+
+**৫. Awesome Kindle ও অফিসিয়াল রিপোজিটরি:**
+আপনার কিন্ডলকে আরও কাস্টমাইজ করতে চাইলে [Awesome Kindle](https://github.com/KindleTweaks/Awesome-Kindle) তালিকাটি ঘুরে দেখতে পারেন।
+এছাড়াও, [KindleForge Official Repository](https://github.com/KindleTweaks/Repository) তে রয়েছে প্রচুর প্যাকেজ যা আপনি KindleForge-এর মাধ্যমে সরাসরি আপনার ডিভাইসে ডাউনলোড করতে পারবেন (যেমন PEKI, Gargoyle, GNOME Games, KNotes, ইত্যাদি)।
+
+যেসব ক্যাটাগরির অ্যাপ পাবেন:
+* **Quality of Life:** HotfixUpdater, Toggle ADs, UpdateBlock Status।
+* **Productivity:** Textadept, KAnki, RAnki, KPomo, Kreate, KNotes।
+* **Games:** Gambit (K2), Gargoyle, GNOME Games, KShips, KWordle, KindleCraft।
+* **System & Dev:** PEKI (KUAL এর জন্য চমৎকার ডিজাইনের একটি লঞ্চার), kTerm, Alpine Linux।
+* **Audio:** LARK Player, KinAMP, SOX।
+
+---
+
+## কৃতজ্ঞতা স্বীকার (Credits)
+এই গাইডে উল্লেখিত টুলস এবং অ্যাপসগুলোর জন্য নিম্নোক্ত রিপোজিটরি ও ডেভেলপারদের প্রতি বিশেষ কৃতজ্ঞতা:
+* **[HotfixUpdater](https://github.com/KindleTweaks/HotfixUpdater):** অন-ডিভাইস হটফিক্স আপডেট করার চমৎকার টুল।
+* **[KindleForge](https://github.com/KindleTweaks/KindleForge):** কিন্ডলের জন্য গ্রাফিক্যাল অ্যাপস্টোর।
+* **[Awesome-Kindle](https://github.com/KindleTweaks/Awesome-Kindle):** সেরা কিন্ডল টুইকস ও অ্যাপসের অসাধারণ তালিকা।
+* **[KindleForge Repository](https://github.com/KindleTweaks/Repository):** কিন্ডল ফোর্জ প্যাকেজগুলোর অফিসিয়াল সংগ্রহশালা।
+* **[PEKI](https://github.com/KindleTweaks/PEKI):** KUAL লঞ্চারের চমৎকার ইনস্টলার।
 
 ---
 

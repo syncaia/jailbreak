@@ -55,7 +55,7 @@ Before starting, ensure your device is suitable for this jailbreak.
 - **Main Written Guide (Required):** [kindlemodding.org](https://kindlemodding.org)
 - **Filler Files:** [Download Here](https://github.com/rokibul/kindle-jailbreak/tree/main/Kindle-Filler-Disk/MTP)
 - **Update Blocker (Renameotabin):** [Download Here](https://github.com/rokibul/kindle-jailbreak/raw/refs/heads/main/mobileread-KUAL/renameotabin.zip)
-- **KindleForge App Store:** [Download v4.0.8](https://github.com/rokibul/kindle-jailbreak/releases/tag/v4.0.8)
+- **KindleForge App Store:** [Download v4.1.0](https://github.com/rokibul/kindle-jailbreak/releases/tag/v4.1.0)
   - *If you are new to GitHub, just click on `kindleforge.zip` to download. After downloading, drag & drop the files into your Kindle's `documents` folder.*
 - **Project Title for KOReader:** [Download Here](https://github.com/rokibul/kindle-jailbreak/tree/main/ProjectTitle) (Use this if you like the custom setup shown in the video).
 
@@ -176,18 +176,41 @@ This ensures your jailbreak survives future system updates.
 
 ---
 
-## Recommended Apps (Next Steps)
+## Recommended Apps & Tweaks (Next Steps)
 
 Your Kindle is now free. Here are some highly recommended apps:
 
 1. **KindleForge (App Store):** A user-friendly app store for Kindle. Install the "Disable Ads" script from here first!
-2. **KOReader:** Replaces the default reading interface. Supports EPUB, custom themes, custom lock screens, and better battery life.
-3. **Socks Media Player:** Play music or audiobooks via Bluetooth speakers.
-4. **KWordle:** Play Wordle on Kindle.
-5. **Kinki:** Powerful flashcard app for learning.
-6. **Gambit (K2):** Game Boy and Game Boy Color emulator.
+2. **HotfixUpdater:** A simple on-device tool to automate checking, downloading, and running the latest Universal Hotfix without a PC.
+3. **KOReader:** Replaces the default reading interface. Supports EPUB, custom themes, custom lock screens, and better battery life.
+4. **Socks Media Player:** Play music or audiobooks via Bluetooth speakers.
+5. **KWordle:** Play Wordle on Kindle.
+6. **Kinki:** Powerful flashcard app for learning.
+7. **Gambit (K2):** Game Boy and Game Boy Color emulator.
+
+### Awesome Kindle & Official Repository
+
+For a complete curated list of tweaks, check out [Awesome Kindle](https://github.com/KindleTweaks/Awesome-Kindle).
+Additionally, explore the [KindleForge Official Repository](https://github.com/KindleTweaks/Repository) for the complete collection of packages you can download directly to your device via KindleForge (including PEKI, Gargoyle, GNOME Games, KNotes, and more).
+
+Here is a glimpse of what you can find:
+- **Quality of Life:** HotfixUpdater, Toggle ADs, UpdateBlock Status.
+- **Productivity:** Textadept, KAnki, RAnki, KPomo, Kreate, KNotes.
+- **Games:** Gambit (K2), Gargoyle, GNOME Games, KShips, KWordle, KindleCraft.
+- **System & Dev:** PEKI (Penguins' Epic KUAL Installer - a better looking launcher for KUAL), kTerm, Alpine Linux.
+- **Audio:** LARK Player, KinAMP, SOX.
 
 [![Watch the video](https://github.com/rokibul/kindle-jailbreak/blob/main/6sigPg.gif?raw=true)](https://www.youtube.com/watch?v=kDp3DMQsx-I "Play on YouTube")
+
+---
+
+## Credits
+Special thanks to the following repositories and their developers for their awesome tools:
+* **[HotfixUpdater](https://github.com/KindleTweaks/HotfixUpdater):** A fantastic tool for on-device hotfix updates.
+* **[KindleForge](https://github.com/KindleTweaks/KindleForge):** A graphical app store for Kindle.
+* **[Awesome-Kindle](https://github.com/KindleTweaks/Awesome-Kindle):** An amazing curated list of Kindle tweaks.
+* **[KindleForge Repository](https://github.com/KindleTweaks/Repository):** The official repository for KindleForge packages.
+* **[PEKI](https://github.com/KindleTweaks/PEKI):** An epic KUAL installer and launcher.
 
 ---
 

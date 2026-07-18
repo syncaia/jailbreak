@@ -1,0 +1,28 @@
+name: Create Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Create Zip
+        run: |
+          cd KindleForge/KindleForge
+          zip -r ../../kindleforge.zip *
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: kindleforge.zip
+          name: ${{ github.ref_name }}
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
